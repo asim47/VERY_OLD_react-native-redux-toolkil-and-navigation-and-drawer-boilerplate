@@ -1,0 +1,5 @@
+npx react-native-rename "Travel App" -b com.junedomingo.travelapp
+
+Use the above command to change the name of the app and bundle identifier for android
+
+for IOS use xcode for bundle identifier
